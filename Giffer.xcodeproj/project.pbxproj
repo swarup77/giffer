@@ -12,6 +12,19 @@
 		075BA1251F7737CB009DD7E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075BA1231F7737CB009DD7E0 /* Main.storyboard */; };
 		075BA1271F7737CB009DD7E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 075BA1261F7737CB009DD7E0 /* Assets.xcassets */; };
 		075BA12A1F7737CB009DD7E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075BA1281F7737CB009DD7E0 /* LaunchScreen.storyboard */; };
+		075BA1321F7737F7009DD7E0 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1311F7737F7009DD7E0 /* Utils.swift */; };
+		075BA1341F773852009DD7E0 /* GifImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1331F773852009DD7E0 /* GifImageView.swift */; };
+		075BA1361F773954009DD7E0 /* GifAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1351F773954009DD7E0 /* GifAnimator.swift */; };
+		075BA1381F773C49009DD7E0 /* GifPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1371F773C49009DD7E0 /* GifPlayer.swift */; };
+		075BA13A1F773DFC009DD7E0 /* AppScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1391F773DFC009DD7E0 /* AppScheme.swift */; };
+		075BA18C1F77632D009DD7E0 /* icons8-Pause-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 075BA18B1F775FCB009DD7E0 /* icons8-Pause-50.png */; };
+		075BA18D1F77632D009DD7E0 /* icons8-Start-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 075BA18A1F775FCB009DD7E0 /* icons8-Start-50.png */; };
+		075BA1A81F7763FE009DD7E0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 075BA1A71F7763FE009DD7E0 /* UIKit.framework */; };
+		075BA1AA1F776441009DD7E0 /* UIImage+Tint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1A91F776441009DD7E0 /* UIImage+Tint.swift */; };
+		075BA1AD1F776AC3009DD7E0 /* UIImage+Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075BA1AC1F776AC3009DD7E0 /* UIImage+Gif.swift */; };
+		075BA1AE1F77711D009DD7E0 /* test.gif in Resources */ = {isa = PBXBuildFile; fileRef = 075BA1AB1F776A63009DD7E0 /* test.gif */; };
+		07B4968E1F77768F00F9AF1A /* FixedIntervalSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B4968D1F77768F00F9AF1A /* FixedIntervalSlider.swift */; };
+		07B496901F77843A00F9AF1A /* String+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B4968F1F77843A00F9AF1A /* String+Size.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,20 @@
 		075BA1261F7737CB009DD7E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		075BA1291F7737CB009DD7E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		075BA12B1F7737CB009DD7E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		075BA1311F7737F7009DD7E0 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		075BA1331F773852009DD7E0 /* GifImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifImageView.swift; sourceTree = "<group>"; };
+		075BA1351F773954009DD7E0 /* GifAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifAnimator.swift; sourceTree = "<group>"; };
+		075BA1371F773C49009DD7E0 /* GifPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifPlayer.swift; sourceTree = "<group>"; };
+		075BA1391F773DFC009DD7E0 /* AppScheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppScheme.swift; sourceTree = "<group>"; };
+		075BA18A1F775FCB009DD7E0 /* icons8-Start-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Start-50.png"; sourceTree = "<group>"; };
+		075BA18B1F775FCB009DD7E0 /* icons8-Pause-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-Pause-50.png"; sourceTree = "<group>"; };
+		075BA1A71F7763FE009DD7E0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		075BA1A91F776441009DD7E0 /* UIImage+Tint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Tint.swift"; sourceTree = "<group>"; };
+		075BA1AB1F776A63009DD7E0 /* test.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test.gif; sourceTree = "<group>"; };
+		075BA1AC1F776AC3009DD7E0 /* UIImage+Gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Gif.swift"; sourceTree = "<group>"; };
+		07B4968D1F77768F00F9AF1A /* FixedIntervalSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixedIntervalSlider.swift; sourceTree = "<group>"; };
+		07B4968F1F77843A00F9AF1A /* String+Size.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Size.swift"; sourceTree = "<group>"; };
+		07B496911F77A28400F9AF1A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				075BA1A81F7763FE009DD7E0 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,8 +66,10 @@
 		075BA1131F7737CB009DD7E0 = {
 			isa = PBXGroup;
 			children = (
+				07B496911F77A28400F9AF1A /* README.md */,
 				075BA11E1F7737CB009DD7E0 /* Giffer */,
 				075BA11D1F7737CB009DD7E0 /* Products */,
+				075BA1A61F7763FD009DD7E0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +84,14 @@
 		075BA11E1F7737CB009DD7E0 /* Giffer */ = {
 			isa = PBXGroup;
 			children = (
+				075BA1891F775F9D009DD7E0 /* assets */,
+				075BA1531F7742E5009DD7E0 /* extensions */,
+				075BA1311F7737F7009DD7E0 /* Utils.swift */,
+				075BA1391F773DFC009DD7E0 /* AppScheme.swift */,
+				07B4968D1F77768F00F9AF1A /* FixedIntervalSlider.swift */,
+				075BA1331F773852009DD7E0 /* GifImageView.swift */,
+				075BA1371F773C49009DD7E0 /* GifPlayer.swift */,
+				075BA1351F773954009DD7E0 /* GifAnimator.swift */,
 				075BA11F1F7737CB009DD7E0 /* AppDelegate.swift */,
 				075BA1211F7737CB009DD7E0 /* ViewController.swift */,
 				075BA1231F7737CB009DD7E0 /* Main.storyboard */,
@@ -62,6 +100,34 @@
 				075BA12B1F7737CB009DD7E0 /* Info.plist */,
 			);
 			path = Giffer;
+			sourceTree = "<group>";
+		};
+		075BA1531F7742E5009DD7E0 /* extensions */ = {
+			isa = PBXGroup;
+			children = (
+				075BA1A91F776441009DD7E0 /* UIImage+Tint.swift */,
+				075BA1AC1F776AC3009DD7E0 /* UIImage+Gif.swift */,
+				07B4968F1F77843A00F9AF1A /* String+Size.swift */,
+			);
+			path = extensions;
+			sourceTree = "<group>";
+		};
+		075BA1891F775F9D009DD7E0 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				075BA1AB1F776A63009DD7E0 /* test.gif */,
+				075BA18B1F775FCB009DD7E0 /* icons8-Pause-50.png */,
+				075BA18A1F775FCB009DD7E0 /* icons8-Start-50.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		075BA1A61F7763FD009DD7E0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				075BA1A71F7763FE009DD7E0 /* UIKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,6 +189,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				075BA1AE1F77711D009DD7E0 /* test.gif in Resources */,
+				075BA18C1F77632D009DD7E0 /* icons8-Pause-50.png in Resources */,
+				075BA18D1F77632D009DD7E0 /* icons8-Start-50.png in Resources */,
 				075BA12A1F7737CB009DD7E0 /* LaunchScreen.storyboard in Resources */,
 				075BA1271F7737CB009DD7E0 /* Assets.xcassets in Resources */,
 				075BA1251F7737CB009DD7E0 /* Main.storyboard in Resources */,
@@ -136,8 +205,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				075BA1AA1F776441009DD7E0 /* UIImage+Tint.swift in Sources */,
+				075BA1341F773852009DD7E0 /* GifImageView.swift in Sources */,
+				075BA13A1F773DFC009DD7E0 /* AppScheme.swift in Sources */,
+				075BA1AD1F776AC3009DD7E0 /* UIImage+Gif.swift in Sources */,
+				07B4968E1F77768F00F9AF1A /* FixedIntervalSlider.swift in Sources */,
 				075BA1221F7737CB009DD7E0 /* ViewController.swift in Sources */,
+				075BA1361F773954009DD7E0 /* GifAnimator.swift in Sources */,
 				075BA1201F7737CB009DD7E0 /* AppDelegate.swift in Sources */,
+				075BA1321F7737F7009DD7E0 /* Utils.swift in Sources */,
+				07B496901F77843A00F9AF1A /* String+Size.swift in Sources */,
+				075BA1381F773C49009DD7E0 /* GifPlayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +358,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Giffer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -295,6 +374,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Giffer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
