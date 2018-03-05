@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "531ae821dc19fe9bb3afca22d55b2752"
+build_time: [1506278751, 729785000]
+inputs:
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/extensions/UIImage+Tint.swift": [1506242129, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/GifImageView.swift": [1506242011, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/AppScheme.swift": [1506243629, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/extensions/UIImage+Gif.swift": [1506241947, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/FixedIntervalSlider.swift": [1506243785, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/ViewController.swift": [1506242098, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/GifAnimator.swift": [1506242087, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/AppDelegate.swift": [1506213963, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/Utils.swift": [1506241947, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/extensions/String+Size.swift": [1506241753, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/GifPlayer.swift": [1506243629, 0]

@@ -1,0 +1,576 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "6Giffer14ViewControllerC"
+provides-member:
+- ["6Giffer14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "preferredStatusBarStyle"
+- "viewDidAppear"
+- "viewDidLoad"
+depends-top-level:
+- !private "+="
+- !private "-="
+- !private "AppScheme"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "Bundle"
+- !private "CGRect"
+- !private "GifPlayer"
+- !private "StringLiteralType"
+- !private "UIColor"
+- "UIStatusBarStyle"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["6Giffer9AppSchemeV", "kStatusBarHeight"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So6BundleC", "main"]
+- !private ["So6BundleC", "path"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "setImagePath"]
+- !private ["SC7CGPointV", "y"]
+- !private ["SC6CGRectV", "origin"]
+- !private ["SC6CGRectV", "size"]
+- !private ["SC6CGSizeV", "height"]
+- !private ["s7CVarArgP", "AppScheme"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "GifPlayer"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "UIStatusBarStyle"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "clear"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "setImagePath"]
+- !private ["s7CVarArgP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidAppear"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "AppScheme"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "GifPlayer"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStatusBarStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "clear"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "origin"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "setImagePath"]
+- !private ["s28CustomDebugStringConvertibleP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidAppear"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "origin"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "origin"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "AppScheme"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "GifPlayer"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "UIStatusBarStyle"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "clear"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "setImagePath"]
+- !private ["s23CustomStringConvertibleP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidAppear"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "origin"]
+- !private ["s9DecodableP", "size"]
+- !private ["s9DecodableP", "y"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "origin"]
+- !private ["s9EncodableP", "size"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "AppScheme"]
+- !private ["s9EquatableP", "Bundle"]
+- !private ["s9EquatableP", "GifPlayer"]
+- !private ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "UIStatusBarStyle"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "clear"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "lightContent"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "origin"]
+- !private ["s9EquatableP", "path"]
+- !private ["s9EquatableP", "setImagePath"]
+- !private ["s9EquatableP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["s9EquatableP", "size"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidAppear"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s9EquatableP", "y"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["6Giffer9GifPlayerC", "init"]
+- !private ["6Giffer9GifPlayerC", "setImagePath"]
+- !private ["s8HashableP", "AppScheme"]
+- !private ["s8HashableP", "Bundle"]
+- !private ["s8HashableP", "GifPlayer"]
+- !private ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "UIStatusBarStyle"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "clear"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "lightContent"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "path"]
+- !private ["s8HashableP", "setImagePath"]
+- !private ["s8HashableP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidAppear"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "AppScheme"]
+- !private ["So8NSCodingP", "Bundle"]
+- !private ["So8NSCodingP", "GifPlayer"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "UIStatusBarStyle"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "clear"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "setImagePath"]
+- !private ["So8NSCodingP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidAppear"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "clear"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "AppScheme"]
+- !private ["So26NSExtensionRequestHandlingP", "Bundle"]
+- !private ["So26NSExtensionRequestHandlingP", "GifPlayer"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStatusBarStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidAppear"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "clear"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "clear"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "AppScheme"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "CGRect"]
+- !private ["So8NSObjectC", "GifPlayer"]
+- !private ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UIStatusBarStyle"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "clear"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "path"]
+- ["So8NSObjectC", "preferredStatusBarStyle"]
+- !private ["So8NSObjectC", "setImagePath"]
+- !private ["So8NSObjectC", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidAppear"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "AppScheme"]
+- !private ["So16NSObjectProtocolP", "Bundle"]
+- !private ["So16NSObjectProtocolP", "GifPlayer"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "UIStatusBarStyle"]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "clear"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "path"]
+- !private ["So16NSObjectProtocolP", "setImagePath"]
+- !private ["So16NSObjectProtocolP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidAppear"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "clear"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "lightContent"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setImagePath"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "setImagePath"]
+- !private ["So21UIAppearanceContainerP", "AppScheme"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- !private ["So21UIAppearanceContainerP", "GifPlayer"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "UIStatusBarStyle"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "setImagePath"]
+- !private ["So21UIAppearanceContainerP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidAppear"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So7UIColorC", "clear"]
+- !private ["So18UIContentContainerP", "AppScheme"]
+- !private ["So18UIContentContainerP", "Bundle"]
+- !private ["So18UIContentContainerP", "GifPlayer"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- !private ["So18UIContentContainerP", "UIStatusBarStyle"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidAppear"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "setImagePath"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "setImagePath"]
+- !private ["So18UIFocusEnvironmentP", "AppScheme"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- !private ["So18UIFocusEnvironmentP", "GifPlayer"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "UIStatusBarStyle"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "setImagePath"]
+- !private ["So18UIFocusEnvironmentP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidAppear"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "setImagePath"]
+- !private ["So30UIPasteConfigurationSupportingP", "AppScheme"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- !private ["So30UIPasteConfigurationSupportingP", "GifPlayer"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStatusBarStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "setImagePath"]
+- !private ["So30UIPasteConfigurationSupportingP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidAppear"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "AppScheme"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "Bundle"]
+- !private ["So11UIResponderC", "CGRect"]
+- !private ["So11UIResponderC", "GifPlayer"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIStatusBarStyle"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- !private ["So11UIResponderC", "bounds"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "preferredStatusBarStyle"]
+- !private ["So11UIResponderC", "setImagePath"]
+- !private ["So11UIResponderC", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidAppear"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "AppScheme"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- !private ["So30UIResponderStandardEditActionsP", "GifPlayer"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStatusBarStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "setImagePath"]
+- !private ["So30UIResponderStandardEditActionsP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "AppScheme"]
+- !private ["So16UIStateRestoringP", "Bundle"]
+- !private ["So16UIStateRestoringP", "GifPlayer"]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- !private ["So16UIStateRestoringP", "UIStatusBarStyle"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidAppear"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["SC16UIStatusBarStyleO", "lightContent"]
+- !private ["So18UITraitEnvironmentP", "AppScheme"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- !private ["So18UITraitEnvironmentP", "GifPlayer"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "UIStatusBarStyle"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "setImagePath"]
+- !private ["So18UITraitEnvironmentP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidAppear"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "setImagePath"]
+- !private ["So16UIViewControllerC", "AppScheme"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "Bundle"]
+- !private ["So16UIViewControllerC", "CGRect"]
+- !private ["So16UIViewControllerC", "GifPlayer"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UIStatusBarStyle"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "preferredStatusBarStyle"]
+- !private ["So16UIViewControllerC", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidAppear"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["6Giffer14ViewControllerC", "AppScheme"]
+- ["6Giffer14ViewControllerC", "Bool"]
+- !private ["6Giffer14ViewControllerC", "Bundle"]
+- !private ["6Giffer14ViewControllerC", "CGRect"]
+- !private ["6Giffer14ViewControllerC", "GifPlayer"]
+- !private ["6Giffer14ViewControllerC", "UIColor"]
+- ["6Giffer14ViewControllerC", "UIStatusBarStyle"]
+- ["6Giffer14ViewControllerC", "deinit"]
+- ["6Giffer14ViewControllerC", "didReceiveMemoryWarning"]
+- ["6Giffer14ViewControllerC", "init"]
+- ["6Giffer14ViewControllerC", "preferredStatusBarStyle"]
+- !private ["6Giffer14ViewControllerC", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["6Giffer14ViewControllerC", "view"]
+- ["6Giffer14ViewControllerC", "viewDidAppear"]
+- ["6Giffer14ViewControllerC", "viewDidLoad"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setImagePath"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "clear"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AppScheme"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GifPlayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStatusBarStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setImagePath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setNeedsStatusBarAppearanceUpdate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidAppear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "origin"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "6Giffer9AppSchemeV"
+- !private "s23BidirectionalCollectionP"
+- !private "So6BundleC"
+- !private "So15CALayerDelegateP"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- !private "SC6CGSizeV"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "6Giffer9GifPlayerC"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "SC16UIStatusBarStyleO"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "6Giffer14ViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "170b0830997dd5b75eb442cf889050df"

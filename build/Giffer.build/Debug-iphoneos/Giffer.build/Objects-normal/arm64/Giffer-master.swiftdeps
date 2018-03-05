@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "7d64d44a26de12aee871f837fbf83075"
+build_time: [1506217264, 375543000]
+inputs:
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/GifImageView.swift": [1506217264, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/AppScheme.swift": [1506216325, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/ViewController.swift": [1506215052, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/GifAnimator.swift": [1506215052, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/AppDelegate.swift": [1506213963, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/Utils.swift": [1506216996, 0]
+  "/Users/Swarup/Apps/XCode/ios/Giffer/Giffer/GifPlayer.swift": [1506217264, 0]
